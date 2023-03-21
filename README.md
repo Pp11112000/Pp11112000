@@ -1,5 +1,5 @@
-<h1 align="center">Hello World, I am Pranit Patil</h1>
-<h3 align="center">Data Analyst</h3>
+![logo](https://github.com/Pp11112000/Pp11112000/blob/main/Banner.png)
+
 
 <img align="right" alt="Data Analyst" width="400" src="https://soyhorizonte.com/wp-content/uploads/2020/01/analitycs_giphy.gif">
 
