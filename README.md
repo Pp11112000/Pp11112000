@@ -1,22 +1,55 @@
 ![logo](https://github.com/Pp11112000/Pp11112000/blob/main/Banner.png)
 
 
-<img align="right" alt="Data Analyst" width="400" src="https://soyhorizonte.com/wp-content/uploads/2020/01/analitycs_giphy.gif">
+<img align="right" alt="coding" width="256" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pp11112000&label=Profile%20views&color=0e75b6&style=flat" alt="pp11112000" /> </p>
+### 🤗Welcome to my Github Profile
+ I am a data analyst. Using data to drive business growth has always been my passion. I am proficient in SQL, Python, Excel and data visualization tools like Power BI. As a data analyst, I am committed to delivering accurate and actionable insights to help businesses make better decisions. 
+ 
+ 
 
-- All of my Projects available at [https://github.com/Pp11112000/Projects](https://github.com/Pp11112000/Projects)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pranit-patil-395068183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranit patil" height="30" width="40" /></a>
+## 💻Skills: 
+* Power BI
+* SQL
+* Python
+* Excel
+
+ <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+ 
+ 
+ 
+ 
+# 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantsugandh&label=Profile%20views&color=0e75b6&style=flat" alt="vedantsugandh" /> </p>
+
+- 🔭 I’m currently working on my **Portfolio Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Pp11112000/Projects](https://github.com/Pp11112000/Projects)
+
+- 💬 Ask me about **anything, I'm happy to help.**
+
+- 📫 How to reach me: <br>
+Email: **patilpranit700@gmail.com** <br>
+Linkedin Id: **https://www.linkedin.com/in/pranit-patil-395068183/**
+
+<h3 align="center">"Information is the oil of the 21st century, and analytics is the combustion engine"</h3>
+
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-<img src="https://pluspng.com/img-png/excel-logo-png-img-microsoft-excel-logo-in-svg-vector-or-png-file-format-3000x2000.png" alt="Collection of Excel Logo PNG. | PlusPNG" class=" nofocus" tabindex="0" aria-label="Collection of Excel Logo PNG. | PlusPNG" data-bm="11" width="40" height="40">
-<img src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2019/10/power-bi_logo_transparent.png?fit=1300%2C1356&amp;ssl=1" alt="DA-100-A: Analyzing Data with Power BI • Indicia Training" class=" nofocus" tabindex="0" aria-label="DA-100-A: Analyzing Data with Power BI • Indicia Training" data-bm="9" width="40" height="40" target="_blank" rel="noreferrer" alt="power bi">  </a> <a 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pp11112000&show_icons=true&locale=en&layout=compact" alt="pp11112000" /></p>
+
+
+
+
+
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pp11112000&show_icons=true&locale=en" alt="pp11112000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pp11112000&" alt="pp11112000" /></p>
+
