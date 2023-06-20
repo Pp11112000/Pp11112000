@@ -23,8 +23,6 @@
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantsugandh&label=Profile%20views&color=0e75b6&style=flat" alt="vedantsugandh" /> </p>
 
-- 🔭 I’m currently working on my **Portfolio Projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Pp11112000/Projects](https://github.com/Pp11112000/Projects)
 
 - 💬 Ask me about **anything, I'm happy to help.**
